@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is repo file
+=======
+this is fb file
+>>>>>>> 433704f (f2.txt is added to fb)
